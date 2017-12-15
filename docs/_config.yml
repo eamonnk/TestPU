@@ -21,8 +21,8 @@ codeurl: 'https://github.com/Microsoft/PartsUnlimited'
 sections: [
     ['basic', 'Basic DevOps Practices'],
     ['advanced', 'Advanced DevOps Practices'],
-    ['1', 'Devops200.1x:DevOps Practices and Principles],
-    ['2', 'Devops200.2x:Infrastructure as Code],
+    ['1', 'Devops200.1x:DevOps Practices and Principles'],
+    ['2', 'Devops200.2x:Infrastructure as Code'],
     ['3', 'Devops200.3x:Continuous Integration and Continuous Deployment'],
     ['4', 'Devops200.4x:Configuration Management for Containerized Dlivery'],
     ['5', 'Devops200.5x:DevOps Testing'],
