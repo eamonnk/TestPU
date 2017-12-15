@@ -19,8 +19,8 @@ codeurl: 'https://github.com/eamonnk/TestPU'
 
 # Default categories (in order) to appear in the navigation
 sections: [
-    ['basic', 'Basic DevOps Practices'],
-    ['advanced', 'Advanced DevOps Practices'],
+    ['basic1', 'Basic DevOps Practices 1'],
+    ['advanced2', 'Advanced DevOps Practices 2'],
     ['Intro', 'Devops200.1x DevOps Practices and Principles'],
 
     
