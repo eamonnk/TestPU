@@ -1,5 +1,5 @@
 # Site title and subtitle. This is used in _includes/header.html
-title: 'PartsUnlimited'
+title: 'Test PU PartsUnlimited'
 subtitle: 'example e-commerce website'
 
 # if you wish to integrate disqus on pages set your shortname here
@@ -15,7 +15,7 @@ google_analytics_id: ''
 navigation: 2
 
 # URL to source code, used in _includes/footer.html
-codeurl: 'https://github.com/Microsoft/PartsUnlimited'
+codeurl: 'https://github.com/eamonnk/TestPU'
 
 # Default categories (in order) to appear in the navigation
 sections: [
