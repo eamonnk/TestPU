@@ -1,6 +1,6 @@
 # Getting Started#
 
-The following instruction is for Windows. For Linux or Mac OS X, please see
+Test > The following instruction is for Windows. For Linux or Mac OS X, please see
 [Getting Started for Linux/OS X](GettingStartedLinuxOSX.md)
 
 ## Set up your machine ##
