@@ -22,6 +22,8 @@ sections: [
     ['basic', 'Basic DevOps Practices 1'],
     ['advanced', 'Advanced DevOps Practices 2'],
     ['Intro', 'Devops200.1x DevOps Practices and Principles'],
+    ['IaC', 'Devops200.2x Infrastructure as Code'],
+    ['CICD', 'Devops200.3x Continuous Integration and Continuous Deployment'],
 
     
     
