@@ -21,16 +21,16 @@ codeurl: 'https://github.com/Microsoft/PartsUnlimited'
 sections: [
     ['basic', 'Basic DevOps Practices'],
     ['advanced', 'Advanced DevOps Practices'],
-    ['1', 'Devops200.1x:DevOps Practices and Principles'],
-    ['2', 'Devops200.2x:Infrastructure as Code'],
-    ['3', 'Devops200.3x:Continuous Integration and Continuous Deployment'],
-    ['4', 'Devops200.4x:Configuration Management for Containerized Dlivery'],
-    ['5', 'Devops200.5x:DevOps Testing'],
-    ['6', 'Devops200.6x:DevOps for Databases'],
-    ['7', 'Devops200.7x:Application Monitoring and Feedback Loops'],
-    ['8', 'Devops200.8x:DevOps for Mobile Apps'],
-    ['9', 'Devops200.9x:Architecting Distributed Applications'],
-    ['10','Devops200.10x:DevOps Capstone Project']
+    ['Intro', 'Devops200.1x DevOps Practices and Principles'],
+    ['IaC', 'Devops200.2x Infrastructure as Code'],
+    ['CICD', 'Devops200.3x Continuous Integration and Continuous Deployment'],
+    ['Config Mgmt', 'Devops200.4x Configuration Management for Containerized Dlivery'],
+    ['Testing', 'Devops200.5x DevOps Testing'],
+    ['Databases', 'Devops200.6x DevOps for Databases'],
+    ['App Monitoring', 'Devops200.7x Application Monitoring and Feedback Loops'],
+    ['Mobile', 'Devops200.8x DevOps for Mobile Apps'],
+    ['Microservices', 'Devops200.9x Architecting Distributed Applications'],
+    ['Capstone','Devops200.10x DevOps Capstone Project']
     
     
 ]
