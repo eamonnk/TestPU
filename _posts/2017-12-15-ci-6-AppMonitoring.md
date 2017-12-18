@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Continuous Integration test title change 2
-category: DevopsMPPCapstone
+category: App Monitoring
 order: 0
 ---
 

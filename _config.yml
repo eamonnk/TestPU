@@ -29,8 +29,8 @@ sections: [
     ['Databases', 'Devops200.6x DevOps with Databases'],
     ['App Monitoring', 'Devops200.7x Application Monitoring and Feedback Loops'],
     ['Mobile', 'Devops200.8x DevOps for Mobile Apps'],
-    ['ArcDistriApps', 'Devops200.9x Architecting Distributed Cloud Apps'],
-    ['Capstone', 'Devops200.10x DevOps MPP Capstone Project'],
+    ['ArchDistriApps', 'Devops200.9x Architecting Distributed Cloud Apps'],
+    ['DevopsMPPCapstone', 'Devops200.10x DevOps MPP Capstone Project'],
 
     
     
